@@ -1,0 +1,5 @@
+@import "@fortawesome/fontawesome-free/css/all.min.css"; /* Move this line to the top */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
