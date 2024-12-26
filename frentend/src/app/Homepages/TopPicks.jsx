@@ -25,8 +25,8 @@ export function TopPicks() {
     <section>
       <div className="flex flex-col items-center justify-center px-8 py-12 bg-white">
         {/* Heading Section */}
-        <h2 className="text-xl md:text-3xl  font-bold font-oswald text-center text-gray-800">
-          <span className="text-red-600  font-oswald font-bold">Deepak's </span>
+        <h2 className="text-xl md:text-3xl font-bold font-oswald text-center text-gray-800">
+          <span className="text-red-600 font-oswald font-bold">Deepak's </span>
           Top Picks
         </h2>
 
@@ -35,7 +35,7 @@ export function TopPicks() {
           {products.map((product, index) => (
             <div
               key={index}
-              className="relative group w-80 h-[450px] rounded-lg overflow-hidden shadow-lg bg-gray-100 hover:w-96 transition-all duration-300 transform origin-left center"
+              className="relative group w-20 md:w-80 md:h-[450px] rounded-lg overflow-hidden shadow-lg bg-gray-100 hover:w-[600px] transition-all  duration-300 transform origin-left flex items-end"
             >
               {/* Product Image */}
               <img

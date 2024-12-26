@@ -1,0 +1,299 @@
+{
+    "filters": {
+        "category": [
+            "Sports",
+            "Health & Nutrition"
+        ],
+        "subcategory": [
+            "Shoes",
+            "Bag",
+            "Socks",
+            "Cap",
+            "Other"
+        ],
+        "shoes_category": [
+            "Batting",
+            "Bowling",
+            "Fielding",
+            "All rounder"
+        ],
+        "price_range": [
+            "Below \u20b92500",
+            "\u20b92500-\u20b97500",
+            "Above \u20b97500"
+        ],
+        "colours": [
+            "Red",
+            "Blue",
+            "Green",
+            "Orange",
+            "Pink",
+            "Black",
+            "White"
+        ]
+    },
+    "products": [
+        {
+            "id": 1,
+            "name": "Product 1: Premium Running Shoes",
+            "price": 5100,
+            "original_price": 6100,
+            "discount": "31%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "Batting",
+            "color": "Black",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 2,
+            "name": "Product 2: Premium Running Shoes",
+            "price": 5200,
+            "original_price": 8200,
+            "discount": "32%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "Batting",
+            "color": "Red",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Product 3: Premium Running Shoes",
+            "price": 1300,
+            "original_price": 2300,
+            "discount": "33%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "All rounder",
+            "color": "Blue",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 4,
+            "name": "Product 4: Premium Running Shoes",
+            "price": 1400,
+            "original_price": 2400,
+            "discount": "34%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "All rounder",
+            "color": "Green",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 5,
+            "name": "Product 5: Premium Running Shoes",
+            "price": 1500,
+            "original_price": 2500,
+            "discount": "35%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "All rounder",
+            "color": "White",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 6,
+            "name": "Product 6: Premium Running Shoes",
+            "price": 3600,
+            "original_price": 6600,
+            "discount": "36%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "Fielding",
+            "color": "Black",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 7,
+            "name": "Product 7: Premium Running Shoes",
+            "price": 1700,
+            "original_price": 2700,
+            "discount": "37%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "Bowling",
+            "color": "Red",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 8,
+            "name": "Product 8: Premium Running Shoes",
+            "price": 1800,
+            "original_price": 2800,
+            "discount": "38%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "All rounder",
+            "color": "Blue",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 9,
+            "name": "Product 9: Premium Running Shoes",
+            "price": 1900,
+            "original_price": 2900,
+            "discount": "39%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "All rounder",
+            "color": "Green",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 10,
+            "name": "Product 10: Premium Running Shoes",
+            "price": 9000,
+            "original_price": 13000,
+            "discount": "40%",
+            "category": "Shoes",
+            "shoes_category": "Bowling",
+            "color": "White",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 10,
+            "name": "Product 10: Premium Running Shoes",
+            "price": 9000,
+            "original_price": 13000,
+            "discount": "40%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "Bowling",
+            "color": "White",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        },
+        {
+            "id": 10,
+            "name": "Product 10: Premium Running Shoes",
+            "price": 6000,
+            "original_price": 12000,
+            "discount": "50%",
+            "category": "Shoes",
+            "tag": "New",
+            "shoes_category": "Bowling",
+            "color": "White",
+            "image_url": "https://via.placeholder.com/300x400",
+            "productDetails": {
+                "Material Type": "Polyurethane, Rubber",
+                "Closure Type": "Lace Up",
+                "Heel Type": "No Heel",
+                "Water Resistance Level": "No water Resistant",
+                "Sole Material": "Ethylene Vinyl Acetate",
+                "Style": "Cricket Shoes",
+                "Country of Origin": "India"
+            },
+            "moreAboutThisProduct": "BOWLING SPIKES NORMAL your cricket game with our top-of-the-line Men's Cricket Shoes, designed to deliver unmatched performance and comfort on the cricket field. Whether you're a professional cricketer or a passionate amateur, these cricket shoes are your perfect companion for conquering the pitch. Our cricket shoes are equipped with advanced rubber cleats that provide exceptional traction on various surfaces, allowing you to make quick movements, sharp cuts, and precise footwork with confidence."
+        }
+    ]
+}

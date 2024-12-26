@@ -13,14 +13,14 @@ export function Product2Highlight() {
           <div className=" gap-5 pb-11  lg:flex-row w-full">
 
                         {/* Text Section */}
-            <div className="flex left-[70%]   flex-col relative  w-full h-24 lg:w-[34%] px-5  lg:px-0">
-              <div className="flex flex-col bg-white relative rounded-3xl pr-10 p-8  pb-24 pt-24 shadow-xl max-w-full mx-auto">
+            <div className="flex left-[70%]   flex-col relative  w-[423px] h-24  px-5  ">
+              <div className="flex flex-col bg-white relative rounded-3xl px-10 p-8  pb-16 pt-18 shadow-xl max-w-full ">
                 <h1 className="text-3xl font-semibold  font-basier text-black leading-[50px] mb-6 text-center lg:text-left lg:text-4xl">
-                  DNINE Premium <br  /> Kings Cricket <br />Bowling Shoes for <br /> Men
+                DNINE Fire High-Performance Cricket Shoes for Men
                 </h1>
                 <button
                   onClick={handleExplore}
-                  className="  flex items-center w-40 px-4 py-2 justify-center  mt-6 bg-slate-900 hover:bg-slate-700 transition font-medium text-white rounded-xl  "
+                  className="  flex items-center w-40 px-4 py-3 justify-center  mt-6 bg-slate-900 hover:bg-slate-700 transition font-medium text-white rounded-xl  "
                   aria-label="Explore product details"
                 >
                   EXPLORE NOW

@@ -37,8 +37,8 @@ export function SpotlightProducts() {
               />
 
               {/* Overlay Text */}
-              <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 text-white text-center py-4">
-                <h3 className="text-sm md:text-lg font-semibold">{product.title}</h3>
+              <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-5    text-white text-center pt-2 pb-10">
+                <h3 className=" text-lg  font-basier bottom-8  md:text-4xl font-semibold  ">{product.title}</h3>
               </div>
             </div>
           ))}

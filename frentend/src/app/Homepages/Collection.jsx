@@ -29,11 +29,11 @@ export default function Collection() {
       <h2 className="text-3xl font-bold font-oswald  text-center mb-8 ">
         <span className="text-red-600">Explore</span> Our Collection
       </h2>
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1  sm:grid-cols-3 gap-8">
         {data.slice(0, 3).map((item, index) => (
           <div
             key={index}
-            className="relative overflow-hidden rounded-lg shadow-lg"
+            className="relative overflow-hidden rounded-lg shadow-lg h-[540px]"
           >
             <img
               src={item.image}

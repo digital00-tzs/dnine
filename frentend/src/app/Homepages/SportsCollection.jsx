@@ -27,17 +27,17 @@ export default function CricketStore() {
   ];
 
   return (
-    <section >
+    <section className="mt-10" >
       <div className="w-auto mx-auto px-4 py-8">
         {/* Header */}
         <div className="mb-4">
-          <h1 className="text-black font-oswald text-lg pl-40 pr-4 lg:text-3xl font-bold">
-            <span className="text-red-600">Sports</span> Collection
+          <h1 className="text-black font-oswald text-lg pl-24 pr-4 lg:text-3xl font-bold">
+            <span className="text-[#D7263D]">Sports</span> Collection
           </h1>
         </div>
 
         {/* Main Title */}
-        <h2 className="text-7xl font-bold pl-40 text-red-600 italic mb-12">
+        <h2 className="text-7xl font-bold pl-24 mt-10 text-[#D7263D] italic mb-12">
           Be Cricket Ready
         </h2>
 
@@ -45,7 +45,7 @@ export default function CricketStore() {
         <div className="flex flex-col lg:flex-row gap-8">
           <div className="lg:w-2/4">
             <div className=" bg-white">
-              <main className="container pl-40 mx-auto px-4 py-8">
+              <main className="container pl-24 mx-auto px-4 py-8">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
                   <div className="space-y-6 ">
                     <div className="space-y-2 mb-10 ">
@@ -82,23 +82,23 @@ export default function CricketStore() {
               {products.map((product) => (
                 <div
                   key={product.id}
-                  className="bg-white p-4 rounded-tl-[100px] rounded-lg shadow-xl flex flex-col "
+                  className="bg-white  px-4 rounded-tl-[100px] rounded-lg shadow-xl flex flex-col "
                 >
                   <img
                     src={product.image}
                     alt={product.name}
-                    className="w-full h-40 relative object-contain mb-4"
+                    className="w-full h-40 relative object-contain mb-2"
                   />
                   <h3 className="font-bold mb-1">{product.name}</h3>
-                  <p className="text-gray-600 text-sm mb-2">
+                  <p className="text-gray-600 text-sm ">
                     {product.category}
                   </p>
                   <div className="flex justify-between  gap-16 items-center">
-                    <p className="font-bold">₹ {product.price}</p>
-                    <button className="bg-navy-900 p-2 rounded-md">
+                    <p className="font-bold text-lg">₹ {product.price}</p>
+                    <button className="bg-navy-900 rounded-md">
                       <svg
-                        width="56"
-                        height="57"
+                        width="45"
+                        height="50"
                         viewBox="0 0 56 57"
                         fill="none"
                         xmlns="http://www.w3.org/2000/svg"

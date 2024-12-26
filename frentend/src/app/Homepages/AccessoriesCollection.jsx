@@ -55,10 +55,10 @@ export default function AccessoriesCollection() {
                   </p>
                   <div className="flex justify-between  gap-16 items-center">
                     <p className="font-bold">₹ {product.price}</p>
-                    <button className="bg-navy-900 p-2 rounded-md">
+                    <button className="bg-navy-900  rounded-md">
                       <svg
-                        width="56"
-                        height="57"
+                        width="45"
+                        height="50"
                         viewBox="0 0 56 57"
                         fill="none"
                         xmlns="http://www.w3.org/2000/svg"
