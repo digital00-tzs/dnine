@@ -14,7 +14,14 @@ connectCloudinary();
 
 // Middleware
 app.use(bodyParser.json());
-app.use(cors());
+const corsOptions = {
+  origin: 'http://localhost:5173',  // Update this with the frontend URL
+  methods: 'GET,POST,PUT,DELETE',  // Methods that your server supports
+  allowedHeaders: 'Content-Type,Authorization',  // Headers allowed
+};
+app.use(cors(corsOptions));
+app.options('*', cors(corsOptions));  // Handle preflight requests
+
 
 // Routes
 const authRoutes = require('./routes/authRoutes');

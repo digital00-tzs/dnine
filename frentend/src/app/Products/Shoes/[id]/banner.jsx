@@ -17,7 +17,7 @@ export default function Banner() {
   </div>
 
       <section>
-        <div className="flex items-center justify-between   bg-[#181818E8] text-white py-2 px-52    mx-auto sm:gap-4 sm:py-12  ">
+        <div className="flex items-center justify-between   bg-[#181818E8] text-white py-2 lg:px-52    mx-auto sm:gap-4 sm:py-12  ">
           <div className="flex items-center gap-2 sm:gap-3">
             <span className="text-lg sm:text-2xl">
               <svg

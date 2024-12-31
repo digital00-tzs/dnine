@@ -11,6 +11,7 @@ export default {
         basier: ['Basier Circle', 'sans-serif'],
         oswald: ['Oswald', 'sans-serif'],
         dmSans: ['DM Sans', 'sans-serif'],
+        publicSanc: ['Public Sanc', 'sans-serif'],
       },
       animation: {
         marquee: 'marquee 30s linear infinite',

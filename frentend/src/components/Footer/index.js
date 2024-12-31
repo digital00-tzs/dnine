@@ -224,6 +224,8 @@ const Footer = () => {
                 </li>
                 <li>
                   <Link href="/T&C"> Terms & Conditions</Link>
+                </li> <li>
+                  <Link href="/F&Q"> F&Q </Link>
                 </li>
               </ul>
             </div>

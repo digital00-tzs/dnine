@@ -71,7 +71,7 @@ const Header = () => {
             <Link href="/Cart">
               <i className="fas fa-shopping-bag cursor-pointer hover:text-black"></i>
             </Link>
-            <Link href="/Profile">
+            <Link href="/Dashboard">
               <i className="far fa-user cursor-pointer hover:text-black"></i>
             </Link>
           </div>

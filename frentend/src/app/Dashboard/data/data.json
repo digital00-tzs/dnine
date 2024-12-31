@@ -1,0 +1,37 @@
+{
+    "user": {
+      "name": "Name Last",
+      "email": "Firstlast@gmail.com",
+      "phone": "+91-9988665544",
+      "location": "Delhi - 1207, India",
+      "profileImage": "/placeholder.svg"
+    },
+    "billingAddress": {
+      "name": "Kevin Gilbert",
+      "address": "12B, Sunrise Apartments, Baner Road, Pune, Maharashtra - 411045, India.",
+      "phone": "+91-9988665544",
+      "email": "firstlast@gmail.com"
+    },
+    "cards": [
+      {
+        "id": 1,
+        "type": "visa",
+        "number": "3814",
+        "amount": "₹95,400.00 INR",
+        "name": "Name Last"
+      },
+      {
+        "id": 2,
+        "type": "mastercard",
+        "number": "1761",
+        "amount": "₹87,583.00 INR",
+        "name": "Name Last"
+      }
+    ],
+    "stats": {
+      "totalOrders": 154,
+      "pendingOrders": 5,
+      "completedOrders": 149
+    }
+  }
+  
